@@ -1,0 +1,21 @@
+menace,978-0446310789,Harper Lee
+like,978-0141439518,Jane Austen
+cheese,978-0743273565,F. Scott Fitzgerald
+The Catcher in the Rye,978-0316769488,J.D. Salinger
+Animal Farm,978-0451526342,George Orwell
+Brave New World,978-0060850524,Aldous Huxley
+Lord of the Flies,978-0399501487,William Golding
+The Hobbit,978-0547928227,J.R.R. Tolkien
+Fahrenheit 451,978-1451673319,Ray Bradbury
+Wuthering Heights,978-0141439556,Emily Brontë
+1,978-0142407332,pp
+Charlotte's Web,978-0064400558,E.B. White
+The Giver,978-0544336261,Lois Lowry
+Matilda,978-0142410370,Roald Dahl
+Holes,978-0440414803,Louis Sachar
+A Wrinkle in Time,978-0312367541,Madeleine L'Engle
+The Diary of a Young Girl,978-0553577129,Anne Frank
+Introduction to Java Programming,978-0-13-292373-6,Y. Daniel Liang
+If Cats Disappeared From The World,976-1-250-25768-0,Genki Kawamura
+Cheeses Friends gabling,228282,Big W
+applesoft,234565432,Cheesecake
